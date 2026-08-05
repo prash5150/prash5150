@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Prashant Varadarajan
 
-<!--
-**prash5150/prash5150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build infrastructure and automation for data-intensive technical work.
 
-Here are some ideas to get you started:
+Currently, I am developing a small Slurm GPU environment using Linux, Ansible, NVIDIA GPUs, shared storage, Apptainer, and JupyterHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also a doctoral candidate in Computer Science, researching computational representations of music with a focus on perceptual and aesthetic properties.
+
+Earlier in my career, I built Python and Bash automation for high-volume media processing, metadata, archival, transfer, and OTT delivery workflows.
+
+## Projects in progress
+
+- Reproducible GPU research-cluster reference implementation
+- Ansible-managed homelab infrastructure
+- Research-data workflow and job-execution tooling
+
+## Links
+
+- [Personal site](https://prash.io/)
+- [LinkedIn](https://www.linkedin.com/in/prashantvaradarajan/)
